@@ -1,0 +1,2 @@
+# LLD
+Registro: ra, nome, turma, disciplina, periodo, avaliacao, nota, transversal. Nota 0–8 e transversal 0–2 (limites provisórios). Nulos representam pendências. Filtros combinados por interseção. Exportação JSON local.
