@@ -1,0 +1,2 @@
+# ADR 0001 — Local-first
+Aceita provisoriamente: não persistir dados pessoais em repositório público ou armazenamento do navegador. Importação a cada sessão. Autenticação e sincronização futuras exigem backend e revisão humana.
