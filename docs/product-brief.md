@@ -1,0 +1,2 @@
+# NotaHub — Product Brief
+Professor consulta notas por nome, RA e turma. Escopo: 267 registros previstos em sete turmas, ainda não transcritos. Sucesso: busca imediata, separação de nota e transversal, sem dados pessoais no GitHub.
