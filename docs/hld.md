@@ -1,0 +1,2 @@
+# HLD
+Aplicação estática HTML/CSS/JS, sem dependências externas. Importação local em memória; recarregar elimina dados. Futuro: Supabase Auth e RLS por professor, sujeito a revisão e autorização institucional.
