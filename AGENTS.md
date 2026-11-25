@@ -1,0 +1,2 @@
+# NotaHub
+Seguir SPECTION: Discover, Specify, Architect, Plan, Build, Verify, Release. Não commitar dados acadêmicos ou segredos. Não declarar testes não executados. Exigir aprovação humana para release. Referência: https://github.com/alexsandsouza/spection
