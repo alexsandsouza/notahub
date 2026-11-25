@@ -1,0 +1,2 @@
+# PRD
+RF01 dashboard e menu lateral responsivo. RF02 busca por nome/RA e filtros de turma, disciplina, período e avaliação. RF03 importar CSV/JSON validado e exportar JSON. RF04 total somente quando ambas notas presentes. RNF01 dados reais somente em memória local nesta versão. RNF02 nenhuma transmissão de registros. Aceitação: filtros combinados, campos vazios preservados, notas 0 válidas, entradas renderizadas como texto.
