@@ -4,6 +4,8 @@ Central de consulta acadêmica | HTML, CSS e JavaScript | SPECTION
 
 ## Funcionalidades
 
+Versão 1.1 Premium: interface aprimorada, importação XLSX local (primeira aba, cabeçalhos padronizados, até 20 MB), download de modelo CSV e limpeza de filtros.
+
 Dashboard, busca por nome ou RA, filtros por turma, disciplina, período, avaliação e situação; importação CSV/JSON, exportação JSON e tema claro/escuro.
 
 ## Uso
@@ -24,4 +26,4 @@ Documentação em `docs/` e especificações em `specs/`. Processo [SPECTION](ht
 
 ## Estado
 
-MVP estático. Testes de navegador e publicação ainda precisam de confirmação.
+Versão 1.1 estática. A versão 1.0 foi publicada; a implantação da 1.1 e os testes de importação XLSX em navegador ainda precisam de confirmação. Não há persistência nem autenticação.
